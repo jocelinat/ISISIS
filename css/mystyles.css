@@ -1,0 +1,30 @@
+h1{
+    font-family: cursive;
+    color:burlywood;
+}
+
+span{
+    color:beige;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+}
+
+.subheading{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.resume{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:cornsilk;
+}
+.mb-4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(83, 16, 16);
+}
+
+.bold{
+    font-weight: bold;
+}
+

@@ -1,0 +1,112 @@
+
+.header {
+    background-color: rgb(48, 8, 79);
+    color: azure;
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative; 
+}
+
+.header h1 {
+    position: absolute; 
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
+
+
+.mainbody{
+    background-color:rgb(220, 232, 241);
+    color:rgb(5, 35, 5);
+    font-family:cursive;
+    
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+h2{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav{
+    background-color: rgb(97, 35, 86);
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    float:left;
+    padding: 13px;
+    text-decoration:none;
+    color: azure;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+
+nav a:hover{
+    background-color: aqua;
+}
+
+.list{
+    color:rgb(5, 35, 5);
+    background-color:rgb(220, 232, 241);
+    text-align: center;
+    
+    
+}
+
+.list {
+    text-align: center;
+    font-size:x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .list ol {
+    display: inline-block;
+    text-align: left;
+    padding-left: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .list ul {
+    text-align: left;
+    padding-left: 20px; 
+  }
+
+
+  .title{
+    font-weight: bold;
+  }
+
+
+  .container{
+    text-align: center;
+  }
+  
+
+  .container2{
+    text-align: center;
+  }
+
+  .container3{
+    text-align: center;
+  }
+
+  .back-to-top {
+    color: blue; 
+    text-decoration: none; 
+    font-weight: bold; 
+    text-align: center;
+    font-size: larger;
+  }
+
+  .centered{
+    text-align: center;
+  }
